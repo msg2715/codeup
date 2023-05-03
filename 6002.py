@@ -1,19 +1,4 @@
-"""
-6002 : [기초-출력] 출력하기02(설명)(py)
-시간 제한: 1 Sec  메모리 제한: 128 MB
+# 문제정보 : https://codeup.kr/problem.php?id=6002
 
-
-이번에는 공백( )을 포함한 문장을 출력한다.
-다음 문장을 출력해보자.
-
-Hello World
-(대소문자에 주의한다.)
-
-입력
-입력 없음
-
-출력
-Hello World
-"""
-
+# 풀이
 print("Hello World")
